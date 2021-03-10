@@ -26,5 +26,6 @@ fields:
   name: excerpt
   label: excerpt
 pages:
+- src/content/kembali-ke-rumah.md
 - src/content/malam-minggu-atau-sabtu-malam.md
 - src/content/obrolan-yang-membosankan.md
