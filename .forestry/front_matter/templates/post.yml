@@ -8,7 +8,8 @@ fields:
 - type: list
   name: author
   label: author
-  default: [Wildan Fauzy] 
+  default:
+  - Wildan Fauzy
 - type: list
   name: tags
   label: tags
