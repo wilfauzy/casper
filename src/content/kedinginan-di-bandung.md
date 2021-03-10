@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kedinginan di Bandung
-image: img/callum-shaw-555357-unsplash.jpg
-author: [Ghost]
+image: img/pexels-matheus-bertelli-799463_kx2qvc.jpg
+author: [Wildan Fauzy]
 date: 2021-02-19T10:00:00.000Z
 tags:
   - catatan
