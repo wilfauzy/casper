@@ -8,6 +8,7 @@ fields:
 - type: list
   name: author
   label: author
+  default: [Wildan Fauzy] 
 - type: list
   name: tags
   label: tags
@@ -20,5 +21,8 @@ fields:
 - type: boolean
   name: draft
   label: draft
+- type: textarea
+  name: excerpt
+  label: excerpt
 pages:
 - src/content/malam-minggu-atau-sabtu-malam.md
