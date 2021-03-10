@@ -2,7 +2,8 @@
 author:
 - Wildan Fauzy
 title: Jalan-Jalan Ke Gunung Ciwaru
-tags: []
+tags:
+- Travelling
 image: img/20-22-35-gunung-ciwaru_rnlbwg.jpg
 date: 2020-11-06T17:00:00.000+00:00
 draft: false
