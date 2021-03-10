@@ -20,3 +20,5 @@ fields:
 - type: boolean
   name: draft
   label: draft
+pages:
+- src/content/malam-minggu-atau-sabtu-malam.md
