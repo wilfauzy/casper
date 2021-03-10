@@ -63,7 +63,7 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     'gatsby-plugin-feed',
-    `gatsby-plugin-gatsby-cloud`, 
+    `gatsby-plugin-gatsby-cloud`
     {
       resolve: 'gatsby-plugin-postcss',
       options: {
@@ -87,17 +87,6 @@ module.exports = {
         // Determines how often site speed tracking beacons will be sent
         siteSpeedSampleRate: 10,
       },
-    },
-    {
-    resolve: `gatsby-plugin-gatsby-cloud`,
-    options: {
-      headers: {}, // option to add more headers. `Link` headers are transformed by the below criteria
-      allPageHeaders: [], // option to add headers for all pages. `Link` headers are transformed by the below criteria
-      mergeSecurityHeaders: true, // boolean to turn off the default security headers
-      mergeLinkHeaders: true, // boolean to turn off the default gatsby js headers
-      mergeCachingHeaders: true, // boolean to turn off the default caching headers
-      transformHeaders: (headers, path) => headers, // optional transform for manipulating headers under each path (e.g.sorting), etc.
-      generateMatchPathRewrites: true, // boolean to turn off automatic creation of redirect rules for client only paths
     },
   ],
 };
