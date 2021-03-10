@@ -51,8 +51,8 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Ghost',
   description: 'The professional publishing platform',
-  coverImage: 'img/blog-cover.png',
-  logo: 'img/ghost-logo.png',
+  coverImage: 'img/2faf2bae2169d10889ab12396b7e0150 - 2021-03-09T021941.453.png.png',
+  logo: 'img/2faf2bae2169d10889ab12396b7e0150 - 2021-03-09T021941.453.png.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
