@@ -3,9 +3,9 @@ author:
 - Wildan Fauzy
 title: Jalan-Jalan Ke Talaga
 tags:
-- travelling
+- Travelling
 image: img/20-21-33-talaga_f96uk2.jpg
-date: 2020-12-20T17:00:00Z
+date: 2020-12-20T17:00:00.000+00:00
 draft: false
 excerpt: Pagi ini hujan dari semalam
 
