@@ -2,13 +2,14 @@
 layout: post
 title: Mandi Kabut Di Panyaweuyan
 image: img/panyawangan.jpeg
-author: [Wildan Fauzy]
+author:
+- Wildan Fauzy
 date: 2021-02-03
 tags:
-  - catatan
+- Travelling
 excerpt: Pemandangan hijau terpampang
----
 
+---
 Malam minggu tidak ada malam mingguan atau versi online karena tidak chattingan dengan kesayangan, namun notifikasi yang sepi membuat merinding juga, apalagi malam ini hujan turun dengan seenaknya, suara kilat saling bersautan seperti paduan suara, keadaan semakin mencekam tiba-tiba hp bergetar saya kira pesan dari kesayangan namun bukan, ternyata dari teman sd merangkap teman sma dan merangkap teman ngoding di github.
 
 “bro besok ready?” ujar dalam pesan singkat wa. ready apaan dalam hati, mengingat ingatan di dalam memori ternyata dua hari sebelumnya saya menanyakan kabar dia apakah masih di rumah, ternyata dari jaman dulu di rumah terus karena wfh, singkat cerita malam minggu ini tidak bisa tidur, mau tidur subuh besok ada janji dengan teman untuk jalan-jalan ke Panyaweuyan majalengka.
