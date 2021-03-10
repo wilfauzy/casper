@@ -53,7 +53,7 @@ const config: WebsiteConfig = {
   description: 'Stories That Matters',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
-  lang: 'en',
+  lang: 'id',
   siteUrl: 'https://www.aidanblog.com',
   facebook: 'https://www.facebook.com/wilfauzy',
   twitter: 'https://twitter.com/wilfauzy',
