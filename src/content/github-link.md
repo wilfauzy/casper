@@ -1,28 +1,24 @@
 ---
 layout: post
-title: Github Source
+title: Kedinginan di Bandung
 image: img/callum-shaw-555357-unsplash.jpg
 author: [Ghost]
-date: 2019-03-10T10:00:00.000Z
+date: 2021-02-19T10:00:00.000Z
 tags:
-  - Source
-excerpt: Where to find this project on GitHub.
+  - catatan
+excerpt: Selimut sarung tidak mempan untuk menghalau rasa dingin, apalagi kalo setiap subuh datang.
 ---
 
-## __A few things you should know__
-Find the source of this blog on GitHub - [scttcper/gatsby-casper](https://github.com/scttcper/gatsby-casper)
+Keputusan untuk kembali ke bandung cukup susah, cuaca di rumah sudah nyaman sekali, setiap hari hujan, hawa panas sudah tidak lagi menyelimuti hari-hari yang biasanya panas, kini sudah adem dan tentram.
 
-### Getting Started
-Use this repo to start your own blog with the same theme.
+Namun kesendirian membuat jiwa yang kesepian ini semakin kacau, apalagi binatang yang bikin kesel selalu menemani setiap malam, sudah satu minggu yang lalu berniat untuk berangkat namun selalu saja ditunda besoknya lalu besoknya lagi.
 
-__Clone this repo.__
-```bash
-git clone https://github.com/scttcper/gatsby-casper.git --depth=1
-```
+Sudah satu minggu berlalu baru deh akhirnya jadi berangkat ke kota kembang yang sekarang sedang mekar karena musim hujan, hari pertama tidak ada yang namanya mandi.
 
-__Remove .git folder and setup a new one__
-```bash
-rm -rf .git && git init
-```
+Memasuki hari kedua baru akhirnya mencoba mandi, sial dinginnya bukan main, baru diguyur sekali langsung merinding dan gemeteran tidak mau berhenti disekujur badan, namun hal itu tidak berlangsung lama.
 
-Now push to whatever repo you want!
+Pada akhirnya mandi dengan mengelap air satu serokan tangan, tidak berani langsung mengguyur dengan gayung, setelah mandi badan memang menjadi anget namun rasa dingin langsung merasuk ke tulang.
+
+Selimut sarung tidak mempan untuk menghalau rasa dingin, apalagi kalo setiap subuh datang rasanya seperti masuk di dalam magic jar berisi preon ac, panas dingin tidak karuan.
+
+Sepertinya cukup sekali saja mandi, atau menunggu matahari bersinar terang dan membuat badan berkeringat lalu baru mandi, entah lah hanya alam dan seisinya yang tahu.rt your own blog with the same theme.
