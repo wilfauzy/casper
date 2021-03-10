@@ -51,8 +51,8 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Aidan Blog',
   description: 'Stories That Matters',
-  coverImage: 'img/blog-cover.png',
-  logo: 'img/logo.png',
+  coverImage: 'img/theme17_nlndhx_oibw2z.jpg',
+  logo: 'img/ini.png',
   lang: 'en',
   siteUrl: 'https://www.aidanblog.com',
   facebook: 'https://www.facebook.com/wilfauzy',
