@@ -21,5 +21,3 @@ Rupanya akan datang besok sore, yasudah besok pagi saja, namun walau belum tidur
 Setidaknya memindahkan mesin cuci dan membersihkan pakaian kotor dan menggulung karpet serta menyapu sekuatnya.
 
 Setelah memberi kabar, saya memberi peringatan bahwa rumah tidak dibersihkan agar ketika mereka datang tidak bisa lagi mengomel karena sudah diberitahu wkwkwk.
-
-[![](https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606728676/pexels-francesca-zama-5325543_ns4s5d.jpg)](https://staging.aidanblog.com/bangun-dari-mimpi/)
