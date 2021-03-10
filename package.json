@@ -11,6 +11,7 @@
     "lint": "eslint --ext .js,.ts,.tsx .",
     "lint:fix": "eslint --fix --ext .js,.ts,.tsx .",
     "start": "npm run dev",
+    "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
