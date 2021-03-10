@@ -1,14 +1,14 @@
 ---
+layout: post
 title: Malam Minggu Atau Sabtu Malam
-author:
-- Wildan Fauzy
-tags:
-- catatan
-image: /img/pexels-aadil-2734406_aav1is.jpg
+image: img/pexels-aadil-2734406_aav1is.jpg
+author: [Wildan Fauzy]
 date: 2021-01-22T17:00:00Z
-draft: false
-
+tags:
+  - catatan
+excerpt: Semua malam sama saja
 ---
+
 Berjumpa lagi dengan malam minggu atau sabtu malam yang dipenuhi oleh kabut dan hujan yang manja alias gerimis awet seperti pemanis buatan.
 
 Daripada berdiam diri sendirian di rumah yang dipenuhi oleh nyamuk dan semut hitam dan merah, lebih baik keluar mencari yang hangat-hangat, namun setelah keluar ingin minum es.
