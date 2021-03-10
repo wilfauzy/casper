@@ -4,7 +4,7 @@ author:
 - Wildan Fauzy
 tags:
 - catatan
-image: "/img/pexels-aadil-2734406_aav1is.jpg"
+image: /img/pexels-aadil-2734406_aav1is.jpg
 date: 2021-01-22T17:00:00Z
 draft: false
 
