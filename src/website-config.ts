@@ -49,20 +49,20 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
-  coverImage: 'img/2faf2bae2169d10889ab12396b7e0150 - 2021-03-09T021941.453.png.png',
-  logo: 'img/2faf2bae2169d10889ab12396b7e0150 - 2021-03-09T021941.453.png.png',
+  title: 'Aidan Blog',
+  description: 'Stories That Matters',
+  coverImage: 'img/logo.png',
+  logo: 'img/logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  siteUrl: 'https://www.aidanblog.com',
+  facebook: 'https://www.facebook.com/wilfauzy',
+  twitter: 'https://twitter.com/wilfauzy',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+  mailchimpAction: 'https://wildanfauzy.us10.list-manage.com/subscribe/post?u=72d29580a7ee388212e8622a5&id=f06aca7400',
+  mailchimpName: 'u=72d29580a7ee388212e8622a5&id=f06aca7400',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: 'is based on Gatsby Casper',
+  footer: 'Member of NgopiBrek!',
 };
 
 export default config;
